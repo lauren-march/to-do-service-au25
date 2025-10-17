@@ -33,11 +33,11 @@ Markdown , a widely used docs-as-code language, has many perks along as many lim
 | Syntax      | Description | Code | Example |
 | ----------- | ----------- | ----- | -------- |
 | Header      | There are multiple headers that vary in text sizes based on how many # used | `# Heading 1`, `## Heading 2`, `### Heading 3` | See below
-| Paragraph   | Pargaraphs are simply text without any additional syntax.       | N/A | Normal text  |
+| Paragraph   | Paragraphs are simply text without any additional syntax.       | N/A | Normal text  |
 | Ordered and Unordered lists | Creates bulleted lists or numbered lists, and can be stacked with layered indentation | `* [text]`,  `1.[text]` | See below |
 Bold | Applies bold text | `**[text]**` | **[text]** |
 Italics | Applies italicized text | `*[text]*` | *[text]* |
-Strikethrough | Will apply a strike through text | `~~[text]~~` | ~~[text]~~
+Strike-through | Will apply a strike through text | `~~[text]~~` | ~~[text]~~
 
 ## ***Heading Examples***
 
