@@ -1,16 +1,16 @@
 # To-do-service API
 
-### Get. Stuff. Done
+**Get. Stuff. Done.**
 
 The To-Do-Service provides a cloud-hosted task list through which subscribers can post tasks and receive reminders of those tasks.
 
 ## Helpful resources
 
-### [Getting Started](getting-started.md) - Check out our step by step guide on getting you familiar with our API and how to use it
+* **Getting Started** - Check out our step by step guide on getting you familiar with our API and how to use it
 
-### [Contact Us](contact-us.md) - Having issues getting setup? Have a suggestion? Let us know
+* **Contact Us** - Having issues getting setup? Have a suggestion? Let us know
 
-### [Learn More](learn-more.md) - Learn more about our API and how it can streamline your work
+* **Learn More** - Learn more about our API and how it can streamline your work
 
 ## Who is this API for?
 
@@ -28,14 +28,12 @@ This API can be used for a myriad of use cases. Below is a few items that may be
 
 ## Support
 
-If you have any questions, or if you need assistance, feel free to contact our [Support team](support.md).
+If you have any questions, or if you need assistance, feel free to contact our **Support Team**.
 
 ## Related pages
 
-### [Tutorials](tutorials.md)
+* [Before you start a tutorial](../before-you-start-a-tutorial.md)
 
-### [Docs](docs.md)
+* [Tutorials: Get all users](../api/users-get-all-users.md)
 
-### [FAQ](faq.md)
-
-### [API Reference](api-reference.md)
+* [Tutorials: Get all users by ID](../api/users-get-user-by-id.md)
