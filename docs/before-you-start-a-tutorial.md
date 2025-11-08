@@ -41,8 +41,8 @@ You might want to open the links in separate browser tabs before you start insta
 - A development system running a current version or a
 long-term support, also known as _LTS_, version of the Windows, MacOS, or Linux operating system.
 - The following software on your development system:
-    - [Git, command line](https://docs.github.com/en/get-started/quickstart/set-up-git)
-    - [GitHub Desktop](https://desktop.github.com). This is optional, but recommended.
+  - [Git, command line](https://docs.github.com/en/get-started/quickstart/set-up-git)
+  - [GitHub Desktop](https://desktop.github.com). This is optional, but recommended.
     - A fork of the [To-Do-Service repository](https://github.com/UWC2-APIDOC/to-do-service-au25)
     - A [current or LTS version of `node.js`](https://nodejs.org/en/download)
     - Version 0.17.4 of [json-server](https://www.npmjs.com/package/json-server/v/0.17.4)
